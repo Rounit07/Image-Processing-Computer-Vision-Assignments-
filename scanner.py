@@ -7,3 +7,7 @@
 
 print("Welcome to Smart Document Scanner & Quality Analysis System")
 print("This system analyzes sampling and quantization effects on document quality.")
+
+import cv2
+import numpy as np
+import matplotlib.pyplot as plt
