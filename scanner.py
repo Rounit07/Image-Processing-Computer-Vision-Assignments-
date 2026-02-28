@@ -1,5 +1,5 @@
 """
-Name       : Rounit Kumar
+Name       : Rounit Kumar.......
 Roll No    : 2301010487
 Course     : Image Processing & Computer Vision
 Assignment : Smart Document Scanner & Quality Analysis System (with Enhanced OCR)
