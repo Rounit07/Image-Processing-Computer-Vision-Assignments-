@@ -1,6 +1,6 @@
 """
-Name: YOUR NAME
-Roll No: YOUR ROLL NO
+Name: Rounit kumar
+Roll No: 2401011487
 Course: Image Processing & Computer Vision
 Assignment: Medical Image Compression & Segmentation
 """
