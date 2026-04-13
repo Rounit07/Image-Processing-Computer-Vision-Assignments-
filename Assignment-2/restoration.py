@@ -3,8 +3,8 @@
 
 """
 ================================================================================
-Name: Himanshi Sharma
-Roll No: 2301010428
+Name: Rounit Kumar
+Roll No: 2401011487
 Course: Image Processing & Computer Vision
 Unit: Image Restoration
 Assignment: Noise Modeling and Image Restoration using Python
