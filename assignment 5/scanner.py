@@ -1,10 +1,9 @@
-# ---------------------------------------------
-# Student Name: Your Name
-# Roll No: Your Roll No
-# Course: Image Processing & Computer Vision
-# Assignment: Intelligent Image Enhancement System
-# ---------------------------------------------
-
+"""
+Name: Rounit Kumar
+Roll No: 2401011487
+Course: Image Processing & Computer Vision
+Assignment: Intelligent Image Enhancement System
+"""
 import cv2
 import numpy as np
 import os
